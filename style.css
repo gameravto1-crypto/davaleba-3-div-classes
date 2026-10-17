@@ -1,0 +1,34 @@
+body {
+  background-color: rgb(224, 224, 116);
+}
+.parrot {
+  width: 200px;
+  border-radius: 49%;
+}
+.rabbit {
+  width: 200px;
+  border-radius: 49%;
+}
+.animals {
+  width: 200px;
+  border-radius: 49%;
+}
+.animals-3 {
+  border-bottom: 4px solid red;
+  border-top: 4px solid red;
+  border-right: 4px solid red;
+  border-left: 4px solid red;
+  width: 1500px;
+  height: 510px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.color-container {
+  width: 170px;
+  height: 100px;
+  background-color: rgb(5, 251, 5);
+  border-radius: 10px;
+  border: 3px solid rgb(27, 234, 27);
+}
